@@ -9,31 +9,31 @@ The Bank Outstanding Dashboard is a visually rich and interactive analytics solu
 
 The dashboard begins with a powerful set of filters that allow users to customize their analysis:
 
-🏢 Branch Filter – Focus on specific branches like Ahmedabad, Bangalore, or Chennai.
+# Branch Filter – Focus on specific branches like Ahmedabad, Bangalore, or Chennai.
 
-🌆 City Filter – Analyze performance across different cities.
+# City Filter – Analyze performance across different cities.
 
-💳 Account Type Filter – Switch between Saving and Current accounts.
+# Account Type Filter – Switch between Saving and Current accounts.
 
-🔢 Account Number Filter – Drill down to individual account-level data.
+# Account Number Filter – Drill down to individual account-level data.
 
 ✨ These filters dynamically update all visuals, making the dashboard highly interactive and user-driven.
 
-📊 🔹 Key Performance Indicators (Top Summary Cards)
+# Key Performance Indicators (Top Summary Cards)
 
 At the top, four KPI cards provide a quick snapshot of financial health:
 
-💰 Total Deposit (989K) – Total funds deposited by customers.
+# Total Deposit (989K) – Total funds deposited by customers.
 
-💸 Total Withdraw (744K) – Total funds withdrawn.
+# Total Withdraw (744K) – Total funds withdrawn.
 
-🏦 Total Current Balance (3M) – Current available balance across all accounts.
+# Total Current Balance (3M) – Current available balance across all accounts.
 
-📂 Total Opening Balance (2M) – Initial balance before transactions.
+# Total Opening Balance (2M) – Initial balance before transactions.
 
-✨ These metrics help stakeholders instantly understand the bank’s financial position.
+# These metrics help stakeholders instantly understand the bank’s financial position.
 
-📈 🔹 Deposit Trend Analysis (Line Chart)
+# # Deposit Trend Analysis (Line Chart)
 
 Displays date-wise deposit trends over time.
 
@@ -43,7 +43,7 @@ Useful for identifying seasonal patterns and customer behavior.
 
 ✨ Enables better forecasting and trend monitoring.
 
-📊 🔹 Account Type Distribution (Bar Chart)
+# # Account Type Distribution (Bar Chart)
 
 Compares the number of Saving vs Current accounts.
 
@@ -51,7 +51,7 @@ Shows which account type is more popular among customers.
 
 ✨ Helps in understanding product demand and customer preferences.
 
-🌍 🔹 City-wise Current Balance (Map Visualization)
+# # City-wise Current Balance (Map Visualization)
 
 A geographic map displaying current balances by city.
 
@@ -59,7 +59,7 @@ Color intensity and markers indicate balance magnitude.
 
 ✨ Provides clear regional insights and highlights high-performing locations.
 
-🏢 🔹 Branch-wise Outstanding Balance (Clustered Bar Chart)
+# # Branch-wise Outstanding Balance (Clustered Bar Chart)
 
 Compares outstanding balances across branches.
 
@@ -67,13 +67,13 @@ Separates data for Saving and Current accounts.
 
 ✨ Helps identify top-performing and underperforming branches.
 
-🏆 🔹 Top 8 Current Balance (Bar Chart)
+# # Top 8 Current Balance (Bar Chart)
 
 Displays accounts/customers with the highest current balances.
 
 ✨ Useful for identifying high-value customers and targeting premium services.
 
-🥧 🔹 Account Type Proportion (Donut Chart)
+# # Account Type Proportion (Donut Chart)
 
 Visual representation of account distribution:
 
@@ -83,17 +83,17 @@ Current Accounts: 46%
 
 ✨ Offers a quick overview of portfolio composition.
 
-💡 🔹 Key Insights & Observations
+# # Key Insights & Observations
 
-📌 Deposits exceed withdrawals, indicating positive cash inflow.
+# Deposits exceed withdrawals, indicating positive cash inflow.
 
-📌 Current balance (3M) > Opening balance (2M), showing growth.
+# Current balance (3M) > Opening balance (2M), showing growth.
 
-📌 Saving accounts dominate slightly, reflecting customer preference.
+# Saving accounts dominate slightly, reflecting customer preference.
 
-📌 Certain cities and branches contribute significantly to overall balances.
+# Certain cities and branches contribute significantly to overall balances.
 
-🎯 🔹 Conclusion
+# # Conclusion
 
 This dashboard acts as a centralized decision-support system for banking professionals. By combining KPIs, trends, geographic data, and customer segmentation, it enables:
 
