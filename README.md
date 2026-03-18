@@ -1,11 +1,11 @@
 # Banking-Outstanding-Dashboard
 <img width="918" height="508" alt="image" src="https://github.com/user-attachments/assets/7a5c1b9a-b723-4634-bd0b-cd540d681745" />
 
-🌟 Bank Outstanding Dashboard 
+# Bank Outstanding Dashboard 
 
 The Bank Outstanding Dashboard is a visually rich and interactive analytics solution designed to provide a complete view of banking operations. It combines financial summaries, customer segmentation, and geographic insights to support smarter decision-making and performance tracking.
 
-🧭 🔹 Interactive Filter Panel (Left Section)
+## Interactive Filter Panel (Left Section)
 
 The dashboard begins with a powerful set of filters that allow users to customize their analysis:
 
